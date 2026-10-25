@@ -1,7 +1,7 @@
 <h1 align="center">Tomás Villarreal</h1>
 
 <p align="center">
-  <a href="https://tomzv.netlify.app/en/">
+  <a href="https://tomasvillarreal.com.ar/en/">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=E0901C&center=true&vCenter=true&width=560&lines=Full+stack+development+%26+AI+integrations;Web+systems%2C+AI+assistants+and+automations;From+discovery+to+deploy" alt="Full stack development & AI integrations" />
   </a>
 </p>
@@ -11,10 +11,10 @@
 </p>
 
 <p align="center">
-  <a href="https://tomzv.netlify.app/en/"><img src="https://img.shields.io/badge/Portfolio-E0901C?style=for-the-badge&logo=astro&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://tomasvillarreal.com.ar/en/"><img src="https://img.shields.io/badge/Portfolio-E0901C?style=for-the-badge&logo=astro&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/villarreal-tomas/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:villarrealtomas@hotmail.com"><img src="https://img.shields.io/badge/Email-1C1917?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
-  <a href="https://tomzv.netlify.app/cv/Villarreal-Tomas-CV-EN.pdf"><img src="https://img.shields.io/badge/CV-57534E?style=for-the-badge&logo=readdotcv&logoColor=white" alt="CV" /></a>
+  <a href="https://tomasvillarreal.com.ar/cv/Villarreal-Tomas-CV-EN.pdf"><img src="https://img.shields.io/badge/CV-57534E?style=for-the-badge&logo=readdotcv&logoColor=white" alt="CV" /></a>
 </p>
 
 ---
@@ -31,18 +31,18 @@ const tomas = {
 
 ### 🛠️ Right now
 
-- 🏛️ **[PSI · National University of Córdoba](https://tomzv.netlify.app/en/work/sistemas-unc/)** (since 2023): single sign-on with MFA, user management and the self-service systems used by **100,000+ students**.
-- 🧪 **[AI agent evaluation](https://tomzv.netlify.app/en/work/chatbots-eval/)** (European startup): full stack on a platform that stress-tests AI agents and reports every failure.
-- 🎯 **[Hunter's Gallery](https://tomzv.netlify.app/en/work/hunters-gallery/)** (freelance, solo): a store that sold through a personal WhatsApp now has a catalog, back office, ARCA e-invoicing and an assistant that drafts replies for a person to approve.
+- 🏛️ **[PSI · National University of Córdoba](https://tomasvillarreal.com.ar/en//work/sistemas-unc/)** (since 2023): single sign-on with MFA, user management and the self-service systems used by **100,000+ students**.
+- 🧪 **[AI agent evaluation](https://tomasvillarreal.com.ar/en//work/chatbots-eval/)** (European startup): full stack on a platform that stress-tests AI agents and reports every failure.
+- 🎯 **[Hunter's Gallery](https://tomasvillarreal.com.ar/en//work/hunters-gallery/)** (freelance, solo): a store that sold through a personal WhatsApp now has a catalog, back office, ARCA e-invoicing and an assistant that drafts replies for a person to approve.
 
 ### 📌 Selected work
 
 | Project | What I built | Stack |
 |---|---|---|
-| [Vehicle paperwork](https://tomzv.netlify.app/en/work/tramites-vehiculares/) · Colombia | Cashier, audit log and an AI-assisted bank reconciliation queue | Next.js · TypeScript |
-| [Assistants for the UNC](https://tomzv.netlify.app/en/work/asistentes-unc/) | RAG assistants that answer from official manuals and hand off when they don't know | Python · LangGraph |
-| [Traffic violation validation](https://tomzv.netlify.app/en/work/validacion-infracciones/) · Colombia | Review portal with device management, coverage maps and role-based validation | React · NestJS |
-| [AI meeting analysis](https://tomzv.netlify.app/en/work/analisis-reuniones/) · Italy | Full stack on a platform that records, transcribes and summarizes meetings | TypeScript · React · Node |
+| [Vehicle paperwork](https://tomasvillarreal.com.ar/en//work/tramites-vehiculares/) · Colombia | Cashier, audit log and an AI-assisted bank reconciliation queue | Next.js · TypeScript |
+| [Assistants for the UNC](https://tomasvillarreal.com.ar/en//work/asistentes-unc/) | RAG assistants that answer from official manuals and hand off when they don't know | Python · LangGraph |
+| [Traffic violation validation](https://tomasvillarreal.com.ar/en//work/validacion-infracciones/) · Colombia | Review portal with device management, coverage maps and role-based validation | React · NestJS |
+| [AI meeting analysis](https://tomasvillarreal.com.ar/en//work/analisis-reuniones/) · Italy | Full stack on a platform that records, transcribes and summarizes meetings | TypeScript · React · Node |
 | [CienciaConecta](https://github.com/tomzvilla/cienciaConecta) · Gov. of Córdoba | Registration and evaluation system for the provincial science fair; led a team of 4 | React · Node · MongoDB |
 
 ### 🃏 Side quests
@@ -80,4 +80,4 @@ Plus LLMs, RAG and LangGraph for the AI side.
 - **Ing. Isidoro Marín Award 2024**, National Academy of Engineering (Argentina).
 - Spanish (native) · English (C2).
 
-<p align="center"><sub>Córdoba · 31°25′S 64°11′W · First call is free → <a href="https://tomzv.netlify.app/en/#contact">get in touch</a></sub></p>
+<p align="center"><sub>Córdoba · 31°25′S 64°11′W · First call is free → <a href="https://tomasvillarreal.com.ar/en//#contact">get in touch</a></sub></p>
