@@ -1,78 +1,83 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=33F709&center=true&vCenter=true&width=900&lines=Hello+World%2C+I'm+Tomas!++%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+<h1 align="center">Tomás Villarreal</h1>
 
+<p align="center">
+  <a href="https://tomzv.netlify.app/en/">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=E0901C&center=true&vCenter=true&width=560&lines=Full+stack+development+%26+AI+integrations;Web+systems%2C+AI+assistants+and+automations;From+discovery+to+deploy" alt="Full stack development & AI integrations" />
+  </a>
+</p>
 
-# Software engineer, programmer, coffee lover (☕♥)
+<p align="center">
+  Systems engineer from Córdoba, Argentina · building software for a university, two AI startups and businesses in Argentina, Colombia and Europe.
+</p>
 
-<img align="right" height="150" width="200" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
+<p align="center">
+  <a href="https://tomzv.netlify.app/en/"><img src="https://img.shields.io/badge/Portfolio-E0901C?style=for-the-badge&logo=astro&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/villarreal-tomas/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:villarrealtomas@hotmail.com"><img src="https://img.shields.io/badge/Email-1C1917?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
+  <a href="https://tomzv.netlify.app/cv/Villarreal-Tomas-CV-EN.pdf"><img src="https://img.shields.io/badge/CV-57534E?style=for-the-badge&logo=readdotcv&logoColor=white" alt="CV" /></a>
+</p>
 
-- 🔭 Currently i'm taking a Java & Spring Course
-- 🌱 Learning Java
-- 📢 My next goal: Learn backend with Java
-- 👓 Looking to start new journeys
-- 💻 Fullstack Developper at [PSI - UNC](https://www.unc.edu.ar/informatica)
-- 📚 Bachelor of Software Engineering at [UTN - FRC](https://www.frc.utn.edu.ar)
+---
 
-<br>
+```ts
+const tomas = {
+  basedIn: "Córdoba, Argentina",
+  codingSinceAge: 17,
+  fuel: ["☕", "☕", "☕"], // still a coffee lover, some things don't get outdated
+  shipping: ["a back office for a sporting goods store", "evals for AI agents", "SSO for 100k students"],
+  sideQuest: "teaching a neural net to bluff at truco 🃏",
+};
+```
 
-![GitHub followers](https://img.shields.io/github/followers/tomzvilla?color=%23181717&logo=github&style=for-the-badge)
+### 🛠️ Right now
 
-<a href="https://www.linkedin.com/in/tomas-villarreal-883526197/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+- 🏛️ **[PSI · National University of Córdoba](https://tomzv.netlify.app/en/work/sistemas-unc/)** (since 2023): single sign-on with MFA, user management and the self-service systems used by **100,000+ students**.
+- 🧪 **[AI agent evaluation](https://tomzv.netlify.app/en/work/chatbots-eval/)** (European startup): full stack on a platform that stress-tests AI agents and reports every failure.
+- 🎯 **[Hunter's Gallery](https://tomzv.netlify.app/en/work/hunters-gallery/)** (freelance, solo): a store that sold through a personal WhatsApp now has a catalog, back office, ARCA e-invoicing and an assistant that drafts replies for a person to approve.
 
+### 📌 Selected work
 
-## ⚙ Technologies
+| Project | What I built | Stack |
+|---|---|---|
+| [Vehicle paperwork](https://tomzv.netlify.app/en/work/tramites-vehiculares/) · Colombia | Cashier, audit log and an AI-assisted bank reconciliation queue | Next.js · TypeScript |
+| [Assistants for the UNC](https://tomzv.netlify.app/en/work/asistentes-unc/) | RAG assistants that answer from official manuals and hand off when they don't know | Python · LangGraph |
+| [Traffic violation validation](https://tomzv.netlify.app/en/work/validacion-infracciones/) · Colombia | Review portal with device management, coverage maps and role-based validation | React · NestJS |
+| [AI meeting analysis](https://tomzv.netlify.app/en/work/analisis-reuniones/) · Italy | Full stack on a platform that records, transcribes and summarizes meetings | TypeScript · React · Node |
+| [CienciaConecta](https://github.com/tomzvilla/cienciaConecta) · Gov. of Córdoba | Registration and evaluation system for the provincial science fair; led a team of 4 | React · Node · MongoDB |
 
-          
-<img align="left" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="left" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="left" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-<img align="left" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-<img align="left" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+### 🃏 Side quests
 
-<img align="left" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
-<img align="left" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<a href="https://truco-cfr.netlify.app/"><img align="right" width="340" src="https://raw.githubusercontent.com/tomzvilla/truco-cfr/HEAD/docs/img/mesa.png" alt="Truco CFR: the table, mid-hand" /></a>
 
-<img align="left" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> 
+**[Truco CFR](https://github.com/tomzvilla/truco-cfr)**: I taught a neural net to play Argentine truco, and it learned to lie.
 
-<img align="left" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-<img align="left" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+No human games, no LLM: it played millions of hands against itself (Deep CFR) until it figured out that a player who never bluffs is easy to read. Now it calls envido with 7 points or less in 38% of those hands, wins 63% of matches against a hand-written heuristic and 59% against Claude Haiku.
 
-<img align="left" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
-<img align="left" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="left" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
+Rust engine shared by the PyTorch training and the browser (WebAssembly), 7 hours on one GPU, zero servers.
 
-<img align="left" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+**[▶ Play against it](https://truco-cfr.netlify.app/)** · [🤗 Model](https://huggingface.co/tomzv1/truco-cfr)
 
-<img align="left" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-<img align="left" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
-<img align="left" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-                    
+<br clear="right" />
 
-<br>
-<br>
-<br>
-<br>
-<br>
+Older and smaller, from the "learning by building" era:
 
-## 💬Connect with me!
+- 🕵️ [instagram-scrapper](https://github.com/tomzvilla/instagram-scrapper): find out who unfollowed you. Pettiness, automated.
+- 🟩 [Wordle](https://tomzvilla.github.io/wordle/): yes, I made one too.
+- 📊 [Sorting algorithm visualizer](https://tomzvilla.github.io/sorting-algorithm-visualizer/): watch quicksort do its thing.
+- 🧠 [Magic memory](https://tomzvilla.github.io/magic-memory/): the card-flipping memory game, in React.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tomzvilla) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tomas-villarreal-883526197/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/tomas_villarreal1/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/TomzVillarreal) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discordapp.com/users/208072597768765443)  
+### ⚙️ Stack
 
-## My work!
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,astro,tailwind,nodejs,express,python,pytorch,rust,wasm,mongodb,docker,vite,git&perline=17" alt="TypeScript, JavaScript, React, Next.js, Vue, Astro, Tailwind, Node.js, Express, Python, PyTorch, Rust, WebAssembly, MongoDB, Docker, Vite, Git" />
+</p>
 
-<h3 align="center">✨ LINKS ✨</h3>
-<p align="center"> <a target="_blank" href="https://tomzv.netlify.app">My Portfolio</a></p>
-<p align="center"> <a target="_blank" href="https://tomzvilla.github.io/wordle/">Wordle</a></p>
-<p align="center"> <a target="_blank" href="https://tomzvilla.github.io/sorting-algorithm-visualizer/">Sorting Algorithms Visualizer</a></p>
-<p align="center"> <a target="_blank" href="https://thedojosite-80d90.web.app">Project Management Site</a></p>
-<p align="center"> <a target="_blank" href="https://mymoney-3bcac.web.app">Finance Tracker</a></p>
-<p align="center"> <a target="_blank" href="https://tomzvilla.github.io/weather-app/">Weather App</a></p>
-<p align="center"> <a target="_blank" href="https://tomzvilla.github.io/countdown-timer/">Countdown Timer</a></p>
-<p align="center"> <a target="_blank" href="https://tomzvilla.github.io/magic-memory/">Magic Memory Game</a></p>
+Plus LLMs, RAG and LangGraph for the AI side.
 
-## Currently listening:
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31udoqiejhsbp7yyfu3ymznyxwj4&cover_image=true&theme=novatorem&bar_color=41d33c&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+### 🎓 Background
 
-[twitter]:https://twitter.com/home
-[instagram]: https://www.instagram.com/tomas_villarreal1/
+- Systems Engineering at **UTN FRC**, highest GPA in my graduating class.
+- **Ing. Isidoro Marín Award 2024**, National Academy of Engineering (Argentina).
+- Spanish (native) · English (C2).
+
+<p align="center"><sub>Córdoba · 31°25′S 64°11′W · First call is free → <a href="https://tomzv.netlify.app/en/#contact">get in touch</a></sub></p>
